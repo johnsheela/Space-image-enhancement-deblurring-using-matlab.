@@ -1,4 +1,4 @@
-originalImage = imread('C:\Users\SHARON ROSE J\Pictures\Screenshots\spaceimg1.png');
+originalImage = imread('Replace with the path of the image');
 % Convert the image to grayscale if it's in color
 grayImage = rgb2gray(originalImage);
 
